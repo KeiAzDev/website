@@ -585,12 +585,12 @@ export default function Home() {
                     <tr className="border-t border-gray-200">
                       <th className="py-4 text-left font-medium">所在地</th>
                       <td className="py-4">
-                        〒100-0001 東京都千代田区〇〇町1-1-1
+                        〒100-0000 北海道 札幌市
                       </td>
                     </tr>
                     <tr className="border-t border-gray-200">
                       <th className="py-4 text-left font-medium">電話番号</th>
-                      <td className="py-4">03-1234-5678</td>
+                      <td className="py-4">123456789</td>
                     </tr>
                     <tr className="border-t border-gray-200">
                       <th className="py-4 text-left font-medium">営業時間</th>
